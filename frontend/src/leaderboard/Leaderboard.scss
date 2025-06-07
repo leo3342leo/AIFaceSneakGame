@@ -1,0 +1,17 @@
+.l-board {
+    border-style: outset;
+    color: white;
+    background-color: #B57F41;
+    border-width: 2px;
+    padding: 15px;
+    border-radius: 15px;
+    border-color: buttonface;
+}
+
+.l-board-row{
+    display:flex;
+}
+
+.l-board-cols{
+    margin:5px
+}

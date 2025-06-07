@@ -1,0 +1,43 @@
+canvas{
+    background-image: url('./asset/playground.png');
+    background-repeat: repeat;
+    border: 1px black solid;
+    margin: auto;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+}
+
+.game-row{
+    display:flex;
+}
+
+.webcam{
+    position:fixed;
+}
+
+.sprite{
+    background: url('./asset/pixel_numbers.png') no-repeat;
+}
+
+.three{
+    background-position: -102px -41px;
+    width: 87px;
+    height: 105px;
+    position: absolute;
+}
+
+.two{
+    background-position: -15px -41px;
+    width: 87px;
+    height: 105px;
+    position: absolute;
+}
+
+.one{
+    background-position: -103px -148px;
+    width: 87px;
+    height: 105px;
+    position: absolute;
+}

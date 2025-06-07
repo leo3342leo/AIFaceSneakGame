@@ -1,0 +1,24 @@
+body{
+  margin:0;
+  display:flex;
+  justify-content: center;
+  background-image: url('./box.png');
+  background-repeat: repeat;
+  font-size: large;
+  font-weight: bold;
+}
+
+button{
+  background-color: #B57F41;
+  font-size: large;
+  font-weight: bold;
+  border-radius: 50px;
+  margin-top:13px;
+  margin-bottom: 13px;
+}
+
+.sprite{
+  display:flex;
+  justify-content: center;
+  align-content: center;
+}

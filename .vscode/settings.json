@@ -1,0 +1,28 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "snake_db",
+            "dialect": "PostgreSQL",
+            "name": "snake_db",
+            "password": "FRIDAYSTART",
+            "port": 5432,
+            "server": "localhost",
+            "username": "fridaystart"
+        }
+    ],
+    "cSpell.ignoreWords": [
+        "db",
+        "getusers",
+        "ilead",
+        "knexconfig",
+        "knexfile",
+        "leaderboard",
+        "leofriday",
+        "name",
+        "snaketest",
+        "testdb",
+        "userprofile",
+        "userservise",
+        "usersmodels"
+    ]
+}
